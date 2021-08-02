@@ -24,9 +24,9 @@ The line graph above displays the total fares for each week by city type.
 ## **Summary**
 While urban areas accumulate the highest total fares, the average fare per ride and average fare per driver is highest in rural areas. This suggests that the urban cities total fares may be attributed to the sheer volume of rides. This gap may represent an opportunity to expand in more rural areas where ride sharing services may not be as prevalent. 
 
-In the Ride Sharing Data Summary, we can see that in urban cities there are actually more drivers than total rides. This suggests that these markets may be oversaturated with supply. One thing to consider is capping the number of drivers in these areas which would also then increase the average fare per drivier, making it more enticing for drivers in these areas. 
+In the Ride Sharing Data Summary, we can see that in urban cities there are actually more drivers than total rides. This suggests that these markets may be oversaturated with supply. One thing to consider is capping the number of drivers in these areas which would also then increase the average fare per driver, making it more enticing for drivers in these areas. 
 
-Lastly, in looking at the Total Fare by City Type chart, there is a dip in total fares in the beginning of March in all three city types. This is may be an opportune time to campaign and have promotions to increase ridership across all city types. 
+Lastly, in looking at the Total Fare by City Type chart, there is a dip in total fares in the beginning of March in all three city types. This may be an opportune time to campaign and have promotions to increase ridership across all city types. 
 
 
 
